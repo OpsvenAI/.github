@@ -1,15 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/opsven/.github/main/banner.png" alt="Opsven Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/OpsvenAI/.github/main/banner.png" alt="Opsven Banner" width="100%">
 </p>
 
 # OPSVEN
-
-![GitHub contributors](https://img.shields.io/github/contributors/OpsvenAI/opsven?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/OpsvenAI/mindscape)  
-![GitHub issues](https://img.shields.io/github/issues/OpsvenAI/opsven)  
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OpsvenAI/.github)  
-![License](https://img.shields.io/github/license/OpsvenAI/.github)  
-![Status](https://img.shields.io/badge/status-active-success) 
 
 ## Empowering Ventures with AI-Driven Operations
 
